@@ -1,0 +1,151 @@
+body{
+    font-size: 97.5%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: url(./imgs/istockphoto-1078387922-612x612.jpg) ;
+  
+}
+
+.header h1{
+    text-align: center;
+    color: blue;
+    font-size: 300%;
+    
+}
+#myaccount{
+    padding: 0 30px 0 0;
+    float: right;
+}
+
+#signin{
+    float: right;
+}
+
+
+.search{
+    margin:50px 0px 5px 10px;
+    padding: 50px 0px 5px 10px;
+    background-color: blue;
+    border: thick solid black;
+    
+    
+}
+#signupad{
+    text-align: center;
+    text-overflow: initial;
+    font-size: 250%;
+    background-color: blue;
+    color: white;
+    border: thick solid black;
+}
+#Form h1 {
+    float: left;
+    text-align: center;
+    text-overflow: initial;
+    font-size: 250%;
+    background-color: blue;
+    color: white;
+    border: thick solid black; 
+}
+.COMING{
+    width: 50%;
+    
+}
+
+
+
+#COMING h3{
+    text-align: center;
+    text-overflow: initial;
+    font-size: 250%;
+    background-color: blue;
+    color: white;
+    border: thick solid black; 
+}
+#SALES h3{
+    text-align: center;
+    text-overflow: initial;
+    font-size: 250%;
+    background-color: blue;
+    color: white;
+    border: thick solid black; 
+}
+
+
+
+.GIVEAWAY{
+    width: 30%;
+}
+
+#meat{
+    display:flex;
+    
+}
+.SALES{
+    width: 50%;
+}
+ 
+#Input{
+    width: 20%;
+    text-align: center;
+    text-overflow: initial;
+    height:60%;
+    
+    background-color: blue;
+    color: white;
+    border: thick solid black; 
+
+}
+.rightside {
+    text-align: center;
+    width: 80%;
+}
+.WINNER{
+    width:60%;
+    height:
+}
+nav#umenu{
+    float: right;
+    margin: -1.5em 0 0 0;
+    padding: 0.35em;
+    height: 1.3em;
+}
+
+
+#WINNER {
+    height: 78vh;
+    
+}
+
+
+
+#umenu ul li{
+    display: inline-block;
+    padding: 0 .3em 0 0;
+    margin: 0;
+}
+
+
+
+#menuFooter{
+    height: 25px;
+    font-size: 1.2em;
+    color: rgb(17, 22, 85);
+    text-align: center;
+    padding: 1.5em 2.5em;
+}
+#topmenu ul li{
+    font-size: 150%;
+    display: inline-block;
+    padding: 0 2.0em 0 2.0em;
+    margin: 0;
+    text-align: center;
+  
+}
+
+
+
+footer ul li{
+    display: inline-block;
+    padding: 0 2.0em 0 0;
+    margin: 0;
+}
